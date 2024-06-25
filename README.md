@@ -1,1 +1,1 @@
-**I make bash scripts and also hack on bug bounty programs**
+**I make bash scripts and I also hack on bug bounty programs**
